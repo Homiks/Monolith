@@ -1,11 +1,11 @@
-ent-BaseChimeraOrgan = Орган химеры
+ent-BaseChimeraOrgan = орган химеры
     .desc = { ent-BaseItem.desc }
 ent-OrganChimeraStomach = желудок химеры
     .desc = Странный орган, что служит центром метаболизма химеры. 
 ent-OrganChimeraBrain = мозг химеры
-    .desc = Сердце роста химеры.
+    .desc = Ядро развития химеры.
 ent-OrganChimeraLiver = шиповидная железа химеры
-    .desc = Находится на месте печени в теле и перепрофилирует её, чтобы вместо этого использовать в качестве железы для выращивания костных шипов.
+    .desc = Заменяет печень в организме и перепрофилирует её в железу для выращивания костяных шипов.
 ent-OrganChimeraHeart = сердце химеры
     .desc = { ent-BaseChimeraOrgan.desc }
 ent-OrganChimeraLungs = феромопод химеры
